@@ -20,6 +20,6 @@
 ---
 
 <p align="left"> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tess-vu&layout=donut-vertical&title_color=ff4100&text_color=2d2a26&icon_color=778ac5&bg_color=dedbd4&border_color=778ac5" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tess-vu&layout=donut-vertical&hide=jupyter%20notebook&title_color=ff4100&text_color=2d2a26&icon_color=778ac5&bg_color=dedbd4&border_color=778ac5" alt="Top Languages" />
   <img src="https://github-readme-stats.vercel.app/api?username=tess-vu&show_icons=true&hide_rank=true&title_color=ff4100&text_color=2d2a26&icon_color=778ac5&bg_color=dedbd4&border_color=778ac5" alt="tess-vu's GitHub stats" />
 </p>
