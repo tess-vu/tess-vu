@@ -17,7 +17,15 @@
 
 ---
 
-<p align="left"> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tess-vu&layout=donut-vertical&title_color=ff4100&text_color=2d2a26&icon_color=778ac5&bg_color=dedbd4&border_color=778ac5" alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=tess-vu&show_icons=true&hide_rank=true&title_color=ff4100&text_color=2d2a26&icon_color=778ac5&bg_color=dedbd4&border_color=778ac5" alt="tess-vu's GitHub stats" />
-</p>
+## Familiarity
+**languages:** ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![CSS](https://img.shields.io/badge/css-%23663399.svg?style=flat&logo=css&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
+
+**ml / dl:** ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat&logo=opencv&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
+
+**llm comprehension:** ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat&logo=claude&logoColor=white) ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=flat&logo=openai&logoColor=white) ![Google Gemini](https://img.shields.io/badge/google%20gemini-8E75B2?style=flat&logo=google%20gemini&logoColor=white) ![HuggingFace](https://img.shields.io/badge/huggingface-%23FFD21E.svg?style=flat&logo=huggingface&logoColor=white)
+
+**geospatial:** ![QGIS](https://img.shields.io/badge/qgis-%2393b023?style=flat&logo=qgis&logoColor=white) ![Google Earth Engine](https://img.shields.io/badge/google%20earth%20engine-%234285F4?style=flat&logo=googleearthengine&logoColor=white)
+
+**databases & cloud:** ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![Snowflake](https://img.shields.io/badge/snowflake-%2329B5E8.svg?style=flat&logo=snowflake&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white)
+
+**tools:** ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=flat&logo=jupyter&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white)
