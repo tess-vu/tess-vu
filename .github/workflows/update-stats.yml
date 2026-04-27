@@ -21,7 +21,7 @@ jobs:
       
       - name: Generate stats
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GH_STATS_TOKEN }}
         run: |
           npm install axios
           node scripts/generate-stats.js
