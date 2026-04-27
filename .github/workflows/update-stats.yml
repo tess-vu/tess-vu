@@ -20,6 +20,8 @@ jobs:
           node-version: '18'
       
       - name: Generate stats
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           npm install axios
           node scripts/generate-stats.js
