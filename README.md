@@ -2,7 +2,7 @@
   <tr>
     <td width="50%" valign="top">
       <h3>English</h3>
-      <p>Research and engineering at the intersection of GeoAI, environmental health, and urban systems. Current work spans computer vision, spatiotemporal ML, remote sensing, and spatial statistics — applied to problems where physical infrastructure and social inequity overlap.</p>
+      <p>Research and engineering at the intersection of GeoAI, environmental health, and urban systems. Current work spans computer vision, spatiotemporal ML, remote sensing, and spatial statistics—applied to problems where physical infrastructure and social inequity overlap.</p>
       <p>Projects include a dual-model pedestrian heat exposure system for Hồ Chí Minh City (Mask2Former + XGBoost + Dijkstra routing), spatial contaminant co-occurrence research in Philadelphia's watershed, and pre-registered demand models encoding racial temporal theory into bikeshare forecasting. Methods integrate field sampling, satellite imagery, street-level computer vision, and civic data.</p>
       <p>Outside research: geospatial network engineer in outside-plant fiber optics and former cancer research associate at Huntsman Cancer Institute. That combination of field infrastructure work, wet lab precision, and computational modeling shapes how these systems get designed.</p>
     </td>
